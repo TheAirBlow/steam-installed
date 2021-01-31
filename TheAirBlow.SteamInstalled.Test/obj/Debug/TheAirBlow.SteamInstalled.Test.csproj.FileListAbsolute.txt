@@ -1,0 +1,14 @@
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\TheAirBlow.SteamInstalled.Test.exe.config
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\TheAirBlow.SteamInstalled.Test.exe
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\TheAirBlow.SteamInstalled.Test.pdb
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\TheAirBlow.SteamInstalled.dll
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\bin\Debug\TheAirBlow.SteamInstalled.pdb
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.csprojAssemblyReference.cache
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.Properties.Resources.resources
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.TestForm.resources
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.csproj.GenerateResource.cache
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.csproj.CoreCompileInputs.cache
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.csproj.CopyComplete
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.exe
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled.Test\obj\Debug\TheAirBlow.SteamInstalled.Test.pdb

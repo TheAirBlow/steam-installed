@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xj8dscyANvl4bmhsHsrsUhcfg6rQ4moUdB2LQVtM995RM7WeLb/7os80Bnv2bWpLyQbLrcx1OZYHLcjR54nySA==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp\\SteamInstalled\\TheAirBlow.SteamInstalled\\TheAirBlow.SteamInstalled.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

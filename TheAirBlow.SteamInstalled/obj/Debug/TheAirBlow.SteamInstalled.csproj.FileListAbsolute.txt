@@ -1,0 +1,8 @@
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\bin\Debug\TheAirBlow.SteamInstalled.dll
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\bin\Debug\TheAirBlow.SteamInstalled.pdb
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\obj\Debug\TheAirBlow.SteamInstalled.csprojAssemblyReference.cache
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\obj\Debug\TheAirBlow.SteamInstalled.csproj.CoreCompileInputs.cache
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\obj\Debug\TheAirBlow.SteamInstalled.csproj.CopyComplete
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\obj\Debug\TheAirBlow.SteamInstalled.dll
+D:\CSharp\SteamInstalled\TheAirBlow.SteamInstalled\obj\Debug\TheAirBlow.SteamInstalled.pdb
